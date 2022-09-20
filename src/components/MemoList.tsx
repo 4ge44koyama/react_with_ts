@@ -7,7 +7,7 @@ type Props = {
   onClickDelete: (index: number) => void;
 };
 
-// スタイルここから
+// スタイル
 const SButton = styled.button`
   margin-left: 16px;
 `;
